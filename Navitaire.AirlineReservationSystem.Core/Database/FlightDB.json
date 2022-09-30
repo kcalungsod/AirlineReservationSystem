@@ -1,0 +1,108 @@
+{
+  "FlightDB": [
+    {
+      "AirlineCode": "5J",
+      "ArrivalStation": "CEB",
+      "DepartureStation": "MNL",
+      "FlightNumber": 1000,
+      "ScheduledTimeOfArrival": "2022-09-28T11:00:00",
+      "ScheduledTimeOfDeparture": "2022-09-28T10:00:00"
+    },
+    {
+      "AirlineCode": "5J",
+      "FlightNumber": 1000,
+      "DepartureStation": "NVO",
+      "ArrivalStation": "MNL",
+      "ScheduledTimeOfDeparture": "2022-09-28T11:00:00",
+      "ScheduledTimeOfArrival": "2022-09-28T12:00:00"
+    },
+    {
+      "AirlineCode": "5J",
+      "FlightNumber": 1000,
+      "DepartureStation": "CEB",
+      "ArrivalStation": "MNL",
+      "ScheduledTimeOfDeparture": "2022-09-28T11:00:00",
+      "ScheduledTimeOfArrival": "2022-09-28T12:00:00"
+    },
+    {
+      "AirlineCode": "4K",
+      "FlightNumber": 1000,
+      "DepartureStation": "CEB",
+      "ArrivalStation": "MNL",
+      "ScheduledTimeOfDeparture": "2022-09-28T11:00:00",
+      "ScheduledTimeOfArrival": "2022-09-28T12:00:00"
+    },
+    {
+      "AirlineCode": "NV",
+      "FlightNumber": 1,
+      "DepartureStation": "SIN",
+      "ArrivalStation": "NRT",
+      "ScheduledTimeOfDeparture": "2022-09-29T12:21:00",
+      "ScheduledTimeOfArrival": "2022-09-29T13:00:00"
+    },
+    {
+      "AirlineCode": "NV",
+      "FlightNumber": 1,
+      "DepartureStation": "SIN",
+      "ArrivalStation": "MNL",
+      "ScheduledTimeOfDeparture": "2022-09-29T11:00:00",
+      "ScheduledTimeOfArrival": "2022-09-29T21:00:00"
+    },
+    {
+      "AirlineCode": "5J",
+      "FlightNumber": 120,
+      "DepartureStation": "MNL",
+      "ArrivalStation": "CEB",
+      "ScheduledTimeOfDeparture": "2023-10-23T00:00:00",
+      "ScheduledTimeOfArrival": "2022-09-29T11:00:00"
+    },
+    {
+      "AirlineCode": "NV",
+      "FlightNumber": 1000,
+      "DepartureStation": "MNL",
+      "ArrivalStation": "CEB",
+      "ScheduledTimeOfDeparture": "2022-09-29T11:00:00",
+      "ScheduledTimeOfArrival": "2022-09-29T12:00:00"
+    },
+    {
+      "AirlineCode": "5J",
+      "FlightNumber": 1200,
+      "DepartureStation": "DVO",
+      "ArrivalStation": "CEB",
+      "ScheduledTimeOfDeparture": "2022-09-29T09:00:00",
+      "ScheduledTimeOfArrival": "2022-09-29T10:00:00"
+    },
+    {
+      "AirlineCode": "1J",
+      "FlightNumber": 1000,
+      "DepartureStation": "MNL",
+      "ArrivalStation": "CEB",
+      "ScheduledTimeOfDeparture": "2022-09-29T11:00:00",
+      "ScheduledTimeOfArrival": "2022-09-29T10:00:00"
+    },
+    {
+      "AirlineCode": "5J",
+      "FlightNumber": 2300,
+      "DepartureStation": "MNL",
+      "ArrivalStation": "CEB",
+      "ScheduledTimeOfDeparture": "2022-09-29T11:00:00",
+      "ScheduledTimeOfArrival": "2022-09-29T11:00:00"
+    },
+    {
+      "AirlineCode": "5J",
+      "FlightNumber": 1111,
+      "DepartureStation": "MNL",
+      "ArrivalStation": "CEB",
+      "ScheduledTimeOfDeparture": "2022-09-29T11:00:00",
+      "ScheduledTimeOfArrival": "2022-09-29T12:00:00"
+    },
+    {
+      "AirlineCode": "5j",
+      "FlightNumber": 1234,
+      "DepartureStation": "MNL",
+      "ArrivalStation": "CEB",
+      "ScheduledTimeOfDeparture": "2022-09-29T11:00:00",
+      "ScheduledTimeOfArrival": "2022-09-29T12:00:00"
+    }
+  ]
+}
